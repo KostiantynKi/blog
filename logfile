@@ -1,0 +1,4 @@
+2021-11-07 22:53:36.293 EET [77334] FATAL:  lock file "postmaster.pid" already exists
+2021-11-07 22:53:36.293 EET [77334] HINT:  Is another postmaster (PID 77321) running in data directory "/usr/local/var/postgres"?
+2021-11-07 22:55:04.896 EET [77395] FATAL:  lock file "postmaster.pid" already exists
+2021-11-07 22:55:04.896 EET [77395] HINT:  Is another postmaster (PID 77380) running in data directory "/usr/local/var/postgres"?
